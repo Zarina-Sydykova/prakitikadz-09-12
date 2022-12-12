@@ -1,8 +1,11 @@
 package whatsapp.enums;
 
 public enum Region {
-    KYRGYZSTAN,
-    USA,
-    TURKEY,
-    KOREA;
+    CHUY,
+    OSH,
+    YSSYK_KOL,
+    NARYN,
+    TALAS,
+    JALAL_ABAD,
+    BATKEN;
 }
